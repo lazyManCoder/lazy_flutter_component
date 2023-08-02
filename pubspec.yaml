@@ -9,6 +9,8 @@ environment:
 # Add regular dependencies here.
 dependencies:
   # path: ^1.8.0
+  syncfusion_flutter_charts: ^22.2.5
+  webview_flutter: ^4.2.2
 
 dev_dependencies:
   lints: ^2.0.0
